@@ -12,6 +12,6 @@
 		"science": 100,
 		"maintenance": 0,
 		"isNationalWonder": true,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Agriculture"
 	}
 ]
