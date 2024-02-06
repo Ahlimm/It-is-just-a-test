@@ -15,10 +15,7 @@
 		"faith": 100,
 		"maintenance": 0,
 		"isNationalWonder": true,
-		"uniques": [
-			"unsellable",
-			"Destroyed when the city is captured",
-		]
-		"requiredTech": "Agriculture"
+		"requiredTech": "Agriculture",
+		"uniques": ["unsellable","Destroyed when the city is captured"]
 	}
 ]
