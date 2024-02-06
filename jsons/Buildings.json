@@ -3,7 +3,7 @@
 		"name": "Holodeck",
 		"replaces": "Palace",
 		"uniqueTo": "Ahyas",
-		"cost": 1,
+		"cost": 0,
 		"cityStrength": 1000000,
 		"cityHealth": 1000000,
 		"gold": 1000000,
