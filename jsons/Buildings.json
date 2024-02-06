@@ -18,7 +18,7 @@
 		"uniques": [
 			"unsellable",
 			"Destroyed when the city is captured",
-		],
+		]
 		"requiredTech": "Agriculture"
 	}
 ]
