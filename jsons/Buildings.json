@@ -1,25 +1,17 @@
 [
 	{
 		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"replaces": "Palace",
+		"uniqueTo": "Ahyas",
+		"cost": 0,
+		"gold": 1000000,
+		"food": 1000000,
+		"production": 100,
+		"happiness": 100,
+		"culture": 100,
+		"science": 100,
+		"maintenance": 0,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Agriculture"
 	}
 ]
