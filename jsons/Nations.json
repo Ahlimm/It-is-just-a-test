@@ -6,8 +6,8 @@
 		"startBias": ["grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "Hello World!",
+		"startIntroPart1": "Hello World!",
+		"startIntroPart2": "We Come In Peace!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
