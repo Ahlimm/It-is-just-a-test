@@ -16,6 +16,5 @@
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredTech": "Agriculture",
-		"uniques": ["unsellable","Destroyed when the city is captured"]
 	}
 ]
