@@ -12,6 +12,7 @@
 		"happiness": 100,
 		"culture": 100,
 		"science": 100,
+		"faith": 100,
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredTech": "Agriculture",
