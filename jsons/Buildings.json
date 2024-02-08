@@ -10,9 +10,10 @@
 		"food": 1000000,
 		"production": 1000,
 		"happiness": 1000,
-		"culture": 1000,
-		"science": 1000,
-		"faith": 1000,
+		"culture": 1000000,
+		"science": 1000000,
+		"faith": 1,
+		"uranium": 100,
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"uniques": [
