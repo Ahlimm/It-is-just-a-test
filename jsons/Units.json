@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Ahyas",
 		"replaces": "Warrior",
-		"movement": 5,
+		"movement": 1,
 		"strength": 10,
 		"cost": 0,
 		"requiredTech": "Agriculture",
