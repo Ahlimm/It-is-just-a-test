@@ -17,6 +17,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Unsellable",
+			"Indicates the capital city",
 			"Destroyed when the city is captured"]
 	}
 ]
