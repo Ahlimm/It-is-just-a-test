@@ -8,10 +8,10 @@
 		"cityHealth": 1000000,
 		"gold": 1000000,
 		"food": 1000000,
-		"production": 100,
+		"production": 50,
 		"happiness": 100,
-		"culture": 100,
-		"science": 100,
+		"culture": 50,
+		"science": 50,
 		"faith": 1,
 		"maintenance": 0,
 		"uniques": [
