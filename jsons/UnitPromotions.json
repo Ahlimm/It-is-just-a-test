@@ -5,7 +5,8 @@
 			"[+1000]% Strength <vs [Barbarian] units>",
 			"Can see invisible [All] units",
 			"Uncapturable",
-			"[+100] Sight",
+			"[+10] Sight",
+			"[+10] additional attacks per turn",
 		]
 }
 ]
