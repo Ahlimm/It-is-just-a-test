@@ -1,12 +1,10 @@
 [
 {
-"name": "Magic Aura",
-		"uniques": ["Can move immediately once bought",
-			"[+1000]% Strength <vs [Barbarian] units>",
+"name": "Magic Eyes",
+		"uniques": [
 			"Can see invisible [All] units",
 			"Uncapturable",
-			"[+10] Sight",
-			"[+10] additional attacks per turn",
+			"[+1000] Sight",
 		]
 }
 ]
