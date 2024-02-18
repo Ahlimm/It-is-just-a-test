@@ -1,14 +1,16 @@
 [
 	{
-		"name": "Superman",
-		"unitType": "Sword",
+		"name": "Maguc Archer",
+		"unitType": "Ranged",
 		"uniqueTo": "Ahyanian",
-		"replaces": "Warrior",
+		"replaces": "Archer",
 		"movement": 5,
-		"strength": 50,
+		"range": 100,
+		"rangedStrength": 100,
+		"strength": 100,
 		"cost": 0,
 		"requiredTech": "Agriculture",
-		"promotions": ["Magic Cultivation"],
+		"promotions": ["Magic Aura"],
 		"attackSound": "phasers"
 	}
 ]
