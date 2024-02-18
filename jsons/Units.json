@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Superman",
 		"unitType": "Sword",
-		"uniqueTo": "Ahyas",
+		"uniqueTo": "Ahyanian",
 		"replaces": "Warrior",
 		"movement": 1,
 		"strength": 10,
