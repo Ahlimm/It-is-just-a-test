@@ -9,10 +9,10 @@
 		"gold": 1000000,
 		"food": 1000000,
 		"production": 100,
-		"happiness": 1000,
+		"happiness": 100,
 		"culture": 100,
 		"science": 100,
-		"faith": 100,
+		"faith": 1,
 		"maintenance": 0,
 		"uniques": [
 			"Unsellable",
