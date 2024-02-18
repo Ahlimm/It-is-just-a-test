@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Magic Archer",
-		"unitType": "Ranged",
+		"name": "Magic Scout",
+		"unitType": "Scout",
 		"uniqueTo": "Ahyanian",
-		"replaces": "Archer",
-		"movement": 5,
-		"range": 100,
-		"rangedStrength": 100,
-		"strength": 100,
+		"replaces": "Scout",
+		"movement": 0,
+		"strength": 1000,
 		"cost": 0,
 		"requiredTech": "Agriculture",
-		"promotions": ["Magic Aura"],
+		"promotions": ["Magic Eyes"],
 		"attackSound": "phasers"
 	}
 ]
