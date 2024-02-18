@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Magic Scout",
-		"unitType": "Scout",
+		"name": "Magic Warrior",
+		"unitType": "Sword",
 		"uniqueTo": "Ahyanian",
-		"replaces": "Scout",
-		"movement": 0,
-		"strength": 1000,
+		"replaces": "Warrior",
+		"movement": 4,
+		"strength": 50,
 		"cost": 0,
 		"requiredTech": "Agriculture",
-		"promotions": ["Magic Eyes"],
+		"promotions": ["Magic Aura"],
 		"attackSound": "phasers"
 	}
 ]
