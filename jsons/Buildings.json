@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Magic Monument",
-		"replaces": "Palace",
+		"replaces": "Monument",
 		"uniqueTo": "Ahyanian",
 		"cost": 0,
 		"cityStrength": 1000000,
@@ -16,7 +16,6 @@
 		"maintenance": 0,
 		"uniques": [
 			"Unsellable",
-			"Gain a free Walls in this city",
 			"Destroyed when the city is captured"]
 	}
 ]
