@@ -1,23 +1,22 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Magic Monument",
 		"replaces": "Palace",
-		"uniqueTo": "Arabia",
+		"uniqueTo": "Ahyanian",
 		"cost": 0,
 		"cityStrength": 1000000,
 		"cityHealth": 1000000,
 		"gold": 1000000,
 		"food": 1000000,
 		"production": 100,
-		"happiness": 100,
+		"happiness": 1000,
 		"culture": 100,
 		"science": 100,
-		"faith": 1,
+		"faith": 100,
 		"maintenance": 0,
-		"isNationalWonder": true,
 		"uniques": [
 			"Unsellable",
-			"Indicates the capital city",
+			"Gain a free Walls in this city",
 			"Destroyed when the city is captured"]
 	}
 ]
