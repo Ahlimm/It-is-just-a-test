@@ -17,7 +17,7 @@
 			"No defensive terrain penalty",
 			"[-100]% Strength for enemy [All] units in adjacent [All] tiles",
 "[+100]% Strength <vs [All] units>",
-"Invisible to [All] units",
+"Invisible to units",
 "May enter foreign tiles without open borders",
 "[+4] Sight",
 "May withdraw before melee ([100]%)",
