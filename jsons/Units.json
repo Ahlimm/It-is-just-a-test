@@ -3,6 +3,7 @@
 		"name": "Magic Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Ahyanian",
+		"replaces": "Warrior",
 		"movement": 4,
 		"strength": 20,
 		"cost": 0,
