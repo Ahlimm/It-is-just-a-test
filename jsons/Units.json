@@ -8,7 +8,7 @@
 		"strength": 20,
 		"cost": 0,
 		"requiredTech": "Agriculture",
-		"promotions": ["Blitz","Logistics","Woodsman","March","Rejuvenation"],
+		"promotions": ["Blitz","Logistics","Besiege","Volley","Woodsman","March","Rejuvenation"],
 		"uniques": [
 			"Can see invisible [All] units",
 			"Uncapturable",
@@ -21,6 +21,35 @@
 "Can see invisible [All] units",
 "May enter foreign tiles without open borders",
 "[+4] Sight",
+"May withdraw before melee ([100]%)",
+"[+100]% XP gained from combat",
+"Heals [100] damage if it kills a unit"
+		]
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Magic Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Ahyanian",
+		"replaces": "Archer",
+		"movement": 4,
+		"rangedStrength": 5,
+		"strength": 20,
+		"cost": 0,
+		"requiredTech": "Agriculture",
+		"promotions": ["Blitz","Logistics","Besiege","Volley","Woodsman","March","Rejuvenation"],
+		"uniques": [
+			"Can see invisible [All] units",
+			"Uncapturable",
+			"Ignores terrain cost",
+			"Can move after attacking",
+			"No defensive terrain penalty",
+			"[-100]% Strength for enemy [All] units in adjacent [All] tiles",
+"[+100]% Strength <vs [All] units>",
+"Invisible to non-adjacent units",
+"Can see invisible [All] units",
+"May enter foreign tiles without open borders",
+"[+5] Sight",
 "May withdraw before melee ([100]%)",
 "[+100]% XP gained from combat",
 "Heals [100] damage if it kills a unit"
