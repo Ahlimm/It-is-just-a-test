@@ -14,8 +14,7 @@
 		"science": 50,
 		"faith": 1,
 		"maintenance": 0,
-		"uniques":
-["Unsellable",
+		"uniques": ["Unsellable",
 "Reveals the entire map",
 "Destroyed when the city is captured"]
 	}
