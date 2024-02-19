@@ -23,7 +23,7 @@
 "[+4] Sight",
 "May withdraw before melee ([100]%)",
 "[+100]% XP gained from combat",
-"Heals [+100]% damage if it kills a unit"
+"Heals [100] damage if it kills a unit"
 		]
 		"attackSound": "phasers"
 	}
