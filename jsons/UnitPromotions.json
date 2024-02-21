@@ -1,0 +1,23 @@
+[
+        {
+                "name": "Magic Aura",
+"uniqueTo": "Ahyanian",
+"uniques": [
+                        "Can see invisible [All] units",
+                        "Uncapturable",
+                        "Ignores terrain cost",
+                        "Can move after attacking",
+                        "No defensive terrain penalty",
+                        "[-100]% Strength for enemy [All] units in adjacent [All] tiles",
+"[+100]% Strength <vs [All] units>",
+"Invisible to non-adjacent units",
+"May enter foreign tiles without open borders",
+"[+2] Sight",
+"[5] additional attacks per turn",
+"[+100]% Strength <vs cities>",
+"May withdraw before melee ([100]%)",
+"[+100]% XP gained from combat",
+"Heals [100] damage if it kills a unit"
+                ]
+        }
+]
