@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Magic Monument",
+"isNationalWonder": true,
 		"replaces": "Palace",
 		"uniqueTo": "Ahyanian",
 		"cost": 0,
