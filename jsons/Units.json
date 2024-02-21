@@ -2,7 +2,7 @@
 {
                 "name": "Worker",
                 "uniqueTo": "Ahyanian",
-"unitType": "Civilian",
+"unitType": "Sword",
 "replace": "Worker",
                 "movement": 5,
 "strength": 20,
@@ -83,7 +83,6 @@
 		"Wolfpack III",
 		"Woodsman",
 		],
-                "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action"],
-                "cost": 0
+                "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action","Founds a new city"],       "cost": 0
         }
 ]
