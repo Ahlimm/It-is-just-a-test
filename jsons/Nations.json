@@ -24,10 +24,10 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Ayo berdamai.",
+"tradeRequest": "Ada uang ada barang.",
 
-		"outerColor": [16,16,16],
+"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Aahya","Bahya","Cahya","Dahya","Eahya","Fahya","Gahya","Hahya","Iahya",
