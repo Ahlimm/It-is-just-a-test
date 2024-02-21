@@ -16,7 +16,7 @@
 		"maintenance": 0,
 		"uniques": ["Unsellable",
 "Gain a free ["Amphitheater",
-"Aqueduct",] [in this city]",
+"Aqueduct"] [in this city]",
 "Reveals the entire map",
 "Destroyed when the city is captured"]
 	}
