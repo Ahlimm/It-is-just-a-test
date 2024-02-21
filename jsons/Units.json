@@ -9,9 +9,7 @@
 "range": 5,
 "rangedStrength": 20,
 "promotions": [
-		"Heal Instantly",
-		"Magic Aura"
-		],
+		"Heal Instantly"	],
                 "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action","Founds a new city"],
 "cost": 0
         }
