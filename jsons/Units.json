@@ -3,6 +3,7 @@
                 "name": "Worker",
                 "unitType": "Civilian",
 "uniqueTo": "Ahyanian",
+"replace": "Worker",
                 "movement": 5,
                 "uniques": ["Uncapturable","Can build [All] improvements on [All] tiles","Automation is a primary action"],
                 "cost": 0
