@@ -2,7 +2,7 @@
 {
                 "name": "Worker",
                 "uniqueTo": "Ahyanian",
-"unitType": ["Civilian","Sword","Ranged"],
+"unitType": "Civilian",
 "replace": "Worker",
                 "movement": 5,
 "strength": 20,
