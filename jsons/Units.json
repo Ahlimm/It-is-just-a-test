@@ -83,6 +83,7 @@
 		"Wolfpack III",
 		"Woodsman",
 		],
-                "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action","Founds a new city"],       "cost": 0
+                "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action","Founds a new city"],
+"cost": 0
         }
 ]
