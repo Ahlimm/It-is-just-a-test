@@ -15,8 +15,7 @@
 		"faith": 1,
 		"maintenance": 0,
 		"uniques": ["Unsellable",
-"Gain a free ["Amphitheater",
-"Aqueduct"] [in this city]",
+"Gain a free [Amphitheater] [in this city]",
 "Reveals the entire map",
 "Destroyed when the city is captured"]
 	}
