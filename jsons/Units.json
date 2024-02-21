@@ -18,9 +18,8 @@
 			"[-100]% Strength for enemy [All] units in adjacent [All] tiles",
 "[+100]% Strength <vs [All] units>",
 "Invisible to non-adjacent units",
-"Invisible to adjacent units",
 "May enter foreign tiles without open borders",
-"[+4] Sight",
+"[+2] Sight",
 "May withdraw before melee ([100]%)",
 "[+100]% XP gained from combat",
 "Heals [100] damage if it kills a unit"
