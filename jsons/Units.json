@@ -1,15 +1,8 @@
 [
 	{
-		"name": "Magic Warrior",
-		"unitType": "Sword",
-		"uniqueTo": "Ahyanian",
-		"replaces": "Warrior",
-		"movement": 4,
-		"strength": 20,
-		"cost": 0,
-		"requiredTech": "Agriculture",
-		"promotions": ["Blitz","Logistics","Besiege","Volley","Woodsman","March","Rejuvenation"],
-		"uniques": [
+		"name": "Magic Aura",
+"uniqueTo": "Ahyanian",
+"uniques": [
 			"Can see invisible [All] units",
 			"Uncapturable",
 			"Ignores terrain cost",
@@ -20,10 +13,11 @@
 "Invisible to non-adjacent units",
 "May enter foreign tiles without open borders",
 "[+2] Sight",
+"[5] additional attacks per turn",
+"[+100]% Strength <vs cities>"],
 "May withdraw before melee ([100]%)",
 "[+100]% XP gained from combat",
 "Heals [100] damage if it kills a unit"
 		]
-		"attackSound": "phasers"
 	}
 ]
