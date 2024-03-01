@@ -10,7 +10,10 @@
 "rangedStrength": 20,
 "promotions": [
 		"Heal Instantly"	],
-                "uniques": ["Uncapturable","Can build [All] improvements on tiles","Automation is a primary action","Founds a new city"],
+                "uniques": ["Uncapturable",
+"Can build [All] improvements on tiles",
+"Automation is a primary action",
+"Founds a new city"],
 "cost": 0
         }
 ]
