@@ -29,7 +29,7 @@
 
 "outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"unique": ["MANIFEST_DESTINY","Starts with [Future Tech]"],
 		"cities": ["Aahya","Bahya","Cahya","Dahya","Eahya","Fahya","Gahya","Hahya","Iahya",
 			"Jahya","Kahya","Lahya","Mahya","Nahya","Oahya","Pahya","Qahya","Rahya","Sahya",
 			"Tahya","Uahya","Vahya","Wahya","Xahya","Yahya","Zahya","1ahya","2ahya","3ahya",
