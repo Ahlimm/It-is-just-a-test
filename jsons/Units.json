@@ -1,19 +1,13 @@
         [
 {
-                "name": "Worker",
+                "name": "Superman",
                 "uniqueTo": "Ahyanian",
-"unitType": "Sword",
-"replace": "Worker",
-                "movement": 5,
-"strength": 20,
-"range": 5,
-"rangedStrength": 20,
-"promotions": [
-		"Heal Instantly"	],
-                "uniques": ["Uncapturable",
-"Can build [All] improvements on tiles",
-"Automation is a primary action",
-"Founds a new city"],
+"unitType": ["Melee","Land","Water","Air"],
+"replace": "Scout",
+"movement": 10,
+"strength": 150,
+"promotions": ["Heal Instantly","Logistics","Blitz","March"],
+"uniques": ["Uncapturable"],
 "cost": 0
         }
 ]
