@@ -2,7 +2,7 @@
 {
                 "name": "Superman",
                 "uniqueTo": "Ahyanian",
-"unitType": ["Melee","Land","Water","Air"],
+"unitType": "Melee",
 "replace": "Scout",
 "movement": 10,
 "strength": 150,
