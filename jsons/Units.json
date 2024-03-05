@@ -6,7 +6,6 @@
 "replace": "Scout",
 "movement": 10,
 "strength": 150,
-"uniques": ["Uncapturable"],
 "cost": 0
         }
 ]
