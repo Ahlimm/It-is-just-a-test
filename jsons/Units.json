@@ -1,12 +1,11 @@
         [
 {
-                "name": "Superman",
+                "name": "Superhuman,
                 "uniqueTo": "Ahyanian",
-"unitType": "Melee",
+"unitType": "All,
 "replace": "Scout",
 "movement": 10,
 "strength": 150,
-"promotions": ["Heal Instantly","Logistics","Blitz","March"],
 "uniques": ["Uncapturable"],
 "cost": 0
         }
