@@ -2,7 +2,7 @@
 {
                 "name": "Superhuman",
                 "uniqueTo": "Ahyanian",
-"unitType": "All",
+"unitType": "Melee",
 "replace": "Scout",
 "movement": 10,
 "strength": 150,
