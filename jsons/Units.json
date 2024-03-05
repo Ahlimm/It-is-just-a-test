@@ -1,8 +1,8 @@
         [
 {
-                "name": "Superhuman,
+                "name": "Superhuman",
                 "uniqueTo": "Ahyanian",
-"unitType": "All,
+"unitType": "All",
 "replace": "Scout",
 "movement": 10,
 "strength": 150,
