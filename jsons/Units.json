@@ -1,11 +1,27 @@
         [
 {
-                "name": "Superhuman",
+                "name": "Hitman",
                 "uniqueTo": "Ahyanian",
-"unitType": "Melee",
+"unitType": "Archery",
 "replace": "Scout",
-"movement": 10,
-"strength": 150,
-"cost": 0
+"movement": 2,
+"strength": 300,
+"rangedStrength": 300,
+"range": 300,
+"cost": 0,
+"uniques":
+[
+"Ranged attacks may be performed over obstacles",
+"Uncapturable",
+"Can move after attacking",
+"Can move immediately once bought",
+"Unit will heal every turn, even if it performs an action",
+"+300 sight",
+"Can see over obstacles",
+"Invisible to others",
+"Invisible to non-adjacent units",
+"Can see invisible [All] units",
+"Never appears as a Barbarian unit"
+]
         }
 ]
